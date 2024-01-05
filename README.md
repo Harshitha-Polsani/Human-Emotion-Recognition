@@ -6,7 +6,7 @@ This deep learning project aims to recognize human emotions from facial expressi
 Utilized three datasets: FER2013, RAF, and Affectnet.
 
 FER2013: Grayscale images in 48x48 resolution across seven emotion classes.
-https://www.kaggle.com/datasets/msambare/fer2013
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
 RAF: RGB images in 100x100 resolution, encompassing the same emotion range.
 http://www.whdeng.cn/raf/model1.html
